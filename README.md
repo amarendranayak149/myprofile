@@ -12,7 +12,8 @@
 
 ## 👨‍💻 About Me  
 
-🎓 B.Tech in Computer Science  
+🎓 B.Tech in Computer Science and Engineering
+
 📍 Data Analyst & Business Intelligence Enthusiast  
 
 I specialize in transforming **complex, unstructured data** into **clear, impactful insights** that drive business decisions.  
